@@ -1,16 +1,10 @@
 # myapp
 
-A new Flutter project.
+# mi prompt
+Crea el código completo para un archivo main.dart en Flutter usando la sintaxis más actualizada para evitar métodos obsoletos, que incluya la función main y una pantalla con un botón de retroceso circular arriba a la izquierda y una tarjeta central blanca con sombras; dentro de la tarjeta debe aparecer el mensaje '¿Seguro que quieres eliminar este libro de tu biblioteca?', un ícono de bote de basura en rojo y un botón de 'Aceptar' también en rojo abajo.
 
-## Getting Started
+## mi diseño
 
-This project is a starting point for a Flutter application.
+![alt text](image.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](image-1.png)
